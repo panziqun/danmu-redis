@@ -1,3 +1,5 @@
+##致敬本插件的原作者！
+
 # jQuery.danmu.js
 
 ## jQuery弹幕插件
@@ -147,7 +149,7 @@ $("#danmu").danmu("addDanmu",[
   ,{ text:"这是底部弹幕" , color:"red" ,size:1,position:2,time:3}
 ])
 
- ```
+```
 
 让弹幕开始运行的方法：
 
@@ -311,5 +313,4 @@ function send_danmu() {
 
 ```html
 jquery.danmu.js (//github.com/chiruom/danmu/) - Licensed under the MIT license
-
 ```
